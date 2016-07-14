@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Layout">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_top"
+                    android:icon="@drawable/top"
+                    android:title="Top" />
+                <item
+                    android:id="@+id/nav_hot"
+                    android:icon="@drawable/hot"
+                    android:title="Hot" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Layout">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_grid"
+                    android:icon="@drawable/ic_grid_action"
+                    android:title="Grid" />
+                <item
+                    android:id="@+id/nav_list"
+                    android:icon="@drawable/ic_list_action"
+                    android:title="List" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
