@@ -12,6 +12,8 @@ Uses:
 * [ION Library by Koushik Dutta: Android Asynchronous Networking and Image Loading](https://github.com/koush/ion)
 
 
+Note: Some Icons are licensed as follows:
+* [Icons made by Freepik] (http://www.freepik.com) from [Flaticon] (http://www.flaticon.com) is licensed by [Creative Commons BY 3.0] (http://creativecommons.org/licenses/by/3.0/)
 
 ###Screenshots
 
