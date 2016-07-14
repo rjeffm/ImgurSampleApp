@@ -15,5 +15,4 @@ Uses:
 
 Screenshots
 ===========
-![Portrait](https://github.com/rjeffm/ImgurApp/master/screenshots/screenshot1.png)
-
+<img src="https://github.com/rjeffm/ImgurSampleApp/master/screenshots/Screenshot1.png" width="250">
