@@ -1,6 +1,6 @@
 # Imgur Sample App
 
-A very simple sample app that plays with the RecyclerView and uses [Imgur's API](api.imgur.com): 
+A basic sample app that plays with the RecyclerView, a Service and uses [Imgur's API](api.imgur.com): 
 
 [The Signed APK can be downloaded here](https://raw.github.com/rjeffm/ImgurSampleApp/master/app/com.jlcsoftware.sampleapp-release.apk) 
 
